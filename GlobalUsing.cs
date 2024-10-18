@@ -1,0 +1,10 @@
+﻿global using BlogProject.Models;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using BlogProject.dtos;
+global using Microsoft.Extensions.Options;
+global using BlogProject.Helpers;
+global using BlogProject.Filters;
+global using BlogProject.Data;
